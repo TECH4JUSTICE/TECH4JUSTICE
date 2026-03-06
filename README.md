@@ -1,18 +1,6 @@
-tech4justice-site/
-│
-├── index.html
-├── about.html
-├── complaints.html
-├── chatbot-race.html
-├── chatbot-disability.html
-├── chatbot-sex.html
-│
-├── css/
-│   └── styles.css
-│
-└── js/
-    └── chatbot.js
-    
+Hello 
+
+
 <!--
 **TECH4JUSTICE/TECH4JUSTICE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
